@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sbookmart</title>
+  <style>
+    body { font-family: Arial; background: #f5f5f5; }
+    h1 { text-align: center; }
+    .book {
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin: 15px;
+      background: white;
+      border-radius: 10px;
+    }
+    img { width: 120px; }
+    a {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 5px 10px;
+      background: green;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>📚 Sbookmart - Second Hand Books</h1>
+
+<div class="book">
+  <h3>Engineering Maths</h3>
+  <img src="book1.jpg">
+  <p>Price: ₹200</p>
+  <a href="https://wa.me/91XXXXXXXXXX">Contact on WhatsApp</a>
+</div>
+
+<div class="book">
+  <h3>Physics Book</h3>
+  <img src="book2.jpg">
+  <p>Price: ₹150</p>
+  <a href="https://wa.me/91XXXXXXXXXX">Contact on WhatsApp</a>
+</div>
+
+</body>
+</html>
